@@ -1,6 +1,6 @@
 cask "blik" do
-  version "1.2"
-  sha256 "7275d76230a4a4316390b1e8782c58a2dfc4e6a475a420e67a1e1b5b635f1d1f"
+  version "1.3"
+  sha256 "7e916ff132101dfb140aa5bbf28601c4ccf1d849fbcc33eff66976b3887ba56d"
 
   url "https://github.com/rsmike/blik/releases/download/v#{version}/Blik-#{version}.zip"
   name "Blik"
